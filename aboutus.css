@@ -1,0 +1,40 @@
+html{
+    background-image: -webkit-linear-gradient(to bottom, white 0%, #ad49b1 100%);
+    background-image: -moz-linear-gradient(to bottom, white 0%, #ad49b1 100%);
+    background-image: -o-linear-gradient(to bottom, white 0%, #ad49b1 100%);
+    background-image: linear-gradient(to bottom, white 0%, #ad49b1 100%);
+}
+body{
+    background-color: white;
+    margin: 100px ;
+    margin-top: 50px;
+    padding: 15px 1.5em;
+    border: 1px solid black;
+    border-radius: 25px;
+    box-shadow: 5px 5px 0 0;
+}
+
+h1{
+    text-align: center;
+   color: rgba(61, 17, 80, 0.94);
+
+}   
+h2{
+    color: rgba(216, 16, 83, 0.94);
+    text-align: center;
+}
+div img{
+    height: 200px;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+dt {
+    color: rgba(61, 17, 80, 0.94);
+    font-weight: bold; 
+}
+dd{
+    color: rgba(216, 16, 83, 0.94);
+    font-weight: bold; 
+}
